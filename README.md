@@ -1,6 +1,6 @@
-# Dynamic Component As Modal
+# Dynamic Components Using A Single Modal
 
-This template should help get you started developing with Vue 3 in Vite.
+This little project help understanding a way to share a modal component with different views/components using the new <script setup> api from vuejs 3.
 
 ## Recommended IDE Setup
 
