@@ -39,16 +39,8 @@
         </div>
       </div>
     </nav> 
-  </div>
-  
+  </div>  
     
-   <ModalVue :modalObject="modalObject" @closeModal="toggleModal()"/> 
+  <ModalVue :modalObject="modalObject" @closeModal="toggleModal()"/> 
 </template>
 
-
-
-
-
-<style scoped>
-
-</style>
