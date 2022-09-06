@@ -1,6 +1,11 @@
 # Dynamic Components Using A Single Modal On Vue 3
 
-This little project help understanding a way to share a modal component with different views/components using the new <script setup> api from vuejs 3.
+This little project to help understand a way to share a modal component with different views/components using the new <script setup> api from vuejs 3.
+
+
+
+
+
 
 ## Recommended IDE Setup
 
