@@ -1,6 +1,6 @@
 # Reusable Modal With Vue 3
 
-This little project to help understand a way to share a modal component with different views/components using the new <script setup> api from vuejs 3.
+This little project to help understand a way to reuse a modal component with different views/components using the new <script setup> on vuejs 3.
 
 
 
